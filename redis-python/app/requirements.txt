@@ -1,0 +1,7 @@
+redis
+rq
+Flask
+# requests
+# nltk
+# bs4
+# stop_words
